@@ -1,7 +1,8 @@
 ## BERT for 2 text classification
 
 Competition site : 
-[competitions_url](https://competitions.codalab.org/competitions/20970#learn_the_details)
+- [competitions_url](https://competitions.codalab.org/competitions/20970#learn_the_details-evaluation)
+- Sub-Task 2 (Compared which subsititued sentence is funnier)
 
 Data:
 - train.csv
